@@ -1,5 +1,5 @@
 Institut de Robòtica i Informàtica Industrial, CSIC-UPC.
-Author Irene Garcia-Camacho (igarcia@iri.upc.edu).
+Author Irene Garcia-Camacho (igarcia@iri.upc.edu)
 
 # Demo Pick and Place
 
